@@ -1,6 +1,6 @@
 import java.util.*;
 public class ATM{
-    private static ArrayList<String> transactions = new ArrayList();
+    private static ArrayList<String> transactions = new ArrayList<>();
     static Scanner s = new Scanner(System.in);
     static User currentuser;
     public static void main(String[] args) {
